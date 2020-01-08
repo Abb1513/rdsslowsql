@@ -1,0 +1,7 @@
+# rds id
+mysqlclient: 't:123@tcp(192.168.1.73)/devops?charset=utf8mb4&parseTime=True&loc=Local'
+dbInstanceId:
+  - 'rm-wz92244jvp1107sg2'
+  - 'rm-wz9zaxn2ue793y8mm'
+  #- {lastName: zhangsan,age: 12}
+
